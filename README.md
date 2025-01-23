@@ -5,7 +5,7 @@
 <h2 align="left">Hi 👋! I'm Fhulufhelo Netshitangane</h2>
 
 ###
-<p>second-year ICT student passionate about leveraging technology to solve real-world problems. I have a solid foundation in programming, network management, and cybersecurity. Dedicated to expanding my knowledge, I stay abreast of the latest technological advancements. Eager to collaborate with like-minded individuals, I aim to make a lasting impact in the field of ICT.</p>
+<p>Final-year ICT student passionate about leveraging technology to solve real-world problems. I have a solid foundation in programming, network management, and cybersecurity. Dedicated to expanding my knowledge, I stay abreast of the latest technological advancements. Eager to collaborate with like-minded individuals, I aim to make a lasting impact in the field of ICT.</p>
 <h2>My Stats: </h2>
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
   
